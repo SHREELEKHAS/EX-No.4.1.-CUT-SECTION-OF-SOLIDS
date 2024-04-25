@@ -43,6 +43,7 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
+![Screenshot 2024-04-25 091404](https://github.com/SHREELEKHAS/EX-No.4.1.-CUT-SECTION-OF-SOLIDS/assets/149768910/efe886ed-a503-43ca-bc1f-781eacee0b39)
 
 
 
